@@ -5,7 +5,7 @@ ParadeDB works on top of Postgres. According to the ParadeDB website, ParadeDB i
 
 (2) Because ParadeDB is Postgres based, ParadeDB is ideal for companies that use Postgres and have people who are trained in using the same. This means that ParadeDB should be incredibly easy to use for people who have experience with using Postgres. 
 
-(3) Moreover, ParadeDB produces fast analytics that can be used for business assessments and decisions. In this sense, ParadDB improves Postgres by making data analytics capabilities available. This is useful for companies that have enormous amounts of data to process and analyze. 
+(3) Moreover, ParadeDB produces fast analytics that can be used for business assessments and decisions. In this sense, ParadeDB improves Postgres by making data analytics capabilities available. This is useful for companies that have enormous amounts of data to process and analyze. 
 
 In conclusion, ParadeDB is based on Postgres and is a search engine with data analytics capabilities. ParadeDB would be useful for the term project if large databases with relevant information were readily available for querying. If a large schema database is found with relevant (to the term project topic) information, then ParadeDb will be extremely useful for querying the same and gleaning insights and patterns from the schema database. 
 
